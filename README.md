@@ -15,11 +15,12 @@ Este es un proyecto web que proporciona una aplicación de lista de tareas simpl
 ## Cómo Usar
 
 1. Clona este repositorio en tu máquina local utilizando el siguiente comando:
-git clone https://github.com/AlejandraTech/lista-de-tareas.git
 
-2. Abre el archivo `index.html` en tu navegador web.
+       git clone https://github.com/AlejandraTech/lista-de-tareas.git
 
-3. ¡Empieza a agregar, eliminar y completar tus tareas!
+3. Abre el archivo `index.html` en tu navegador web.
+
+4. ¡Empieza a agregar, eliminar y completar tus tareas!
 
 ## Contribuciones
 
