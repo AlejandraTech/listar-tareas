@@ -28,4 +28,4 @@ Las contribuciones son bienvenidas. Si encuentras algún problema o tienes una i
 
 ## Autor
 
-Este proyecto fue creado por **@AlejandraTech** (https://github.com/AlejandraTech).
+Este proyecto fue creado por **@AlejandraTech** ([GitHub]https://github.com/AlejandraTech).
