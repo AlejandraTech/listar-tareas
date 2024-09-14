@@ -1,4 +1,4 @@
-# 📝 Lista de Tareas 📋
+# 📝 Lista de Tareas
 
 Bienvenido a la **Lista de Tareas**, una aplicación web desarrollada con HTML, CSS y JavaScript que facilita la creación y gestión de tareas de manera sencilla y eficiente.
 
