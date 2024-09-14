@@ -81,7 +81,7 @@ Ninguno. Esta aplicación solo requiere un navegador web moderno.
 
 ## Autor 👩‍💻
 
-Este proyecto fue creado por **@AlejandraTech** ([GitHub](https://github.com/AlejandraTech)).
+Este proyecto fue creado por [**@AlejandraTech**](https://github.com/AlejandraTech).
 
 ---
 
